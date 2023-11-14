@@ -30,4 +30,4 @@ Prerequisites
 1. Place your list of names in 'ListOfNames.csv' with columns 'FirstName' and 'LastName'.
 2. Update the script with your LinkedIn credentials and target firm's name.
 3. Run the script.
-4. 4. Results will be saved in 'out.csv'.
+4. Results will be saved in 'out.csv'.
